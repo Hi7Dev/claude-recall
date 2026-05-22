@@ -43,12 +43,14 @@ Prices are in GBP. International buyers pay equivalent in their currency; LemonS
 
 ## How to buy
 
-> **Commercial licences open shortly.** The payment processor (LemonSqueezy) is verifying account details for v0.1.0-windows — the buy link will go live here within ~24 hours of release.
->
-> **Need a commercial licence right now?**  
-> Open a ticket with the **[`licensing`](https://github.com/Hi7Dev/claude-recall/issues/new?labels=licensing&title=Commercial+licence+enquiry)** label, or comment on any open issue tagged `licensing`. Early-bird licences for the first 10 commercial buyers come with a permanent **10% discount on future major-version upgrades** as a thank-you.
+→ **[Buy a Recall Pro commercial licence](https://hi7dev.lemonsqueezy.com/checkout/buy/70777797-cf0e-4989-bac5-ed81c001ee9c)**
 
-Once the buy link is live: you'll receive a receipt and a licence confirmation email within minutes. The licence is a record of payment — there is no DRM, no online activation, and no telemetry in Recall Pro.
+You'll receive a receipt and a confirmation email within minutes of payment. The licence is the receipt itself — there is no DRM, no online activation, no telemetry, and no key to lose. Keep the receipt on file as proof of licence.
+
+**Early-bird:** the first 10 commercial buyers get a permanent **10% discount on future major-version upgrades** as a thank-you. Mention "early-bird" in a `licensing` issue on GitHub after purchase to claim.
+
+**Need a custom arrangement (site licence, 11+ seats, OSS exemption, sponsorship, etc.)?**  
+Open a [`licensing`](https://github.com/Hi7Dev/claude-recall/issues/new?labels=licensing&title=Commercial+licence+enquiry) issue.
 
 ---
 
