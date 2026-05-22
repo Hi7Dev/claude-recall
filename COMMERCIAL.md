@@ -43,9 +43,12 @@ Prices are in GBP. International buyers pay equivalent in their currency; LemonS
 
 ## How to buy
 
-→ **[Buy a commercial licence](#)** *(LemonSqueezy link to be added on publish)*
+> **Commercial licences open shortly.** The payment processor (LemonSqueezy) is verifying account details for v0.1.0-windows — the buy link will go live here within ~24 hours of release.
+>
+> **Need a commercial licence right now?**  
+> Open a ticket with the **[`licensing`](https://github.com/Hi7Dev/claude-recall/issues/new?labels=licensing&title=Commercial+licence+enquiry)** label, or comment on any open issue tagged `licensing`. Early-bird licences for the first 10 commercial buyers come with a permanent **10% discount on future major-version upgrades** as a thank-you.
 
-You'll receive a receipt and a licence email within minutes. The licence is a simple text file you keep on record — there is no DRM, no online activation, and no telemetry in Recall Pro.
+Once the buy link is live: you'll receive a receipt and a licence confirmation email within minutes. The licence is a record of payment — there is no DRM, no online activation, and no telemetry in Recall Pro.
 
 ---
 
@@ -65,6 +68,8 @@ You'll receive a receipt and a licence email within minutes. The licence is a si
 
 ## Contact
 
-→ *(Sponsor / contact link to be added on publish; for now, use GitHub issues to ask about licensing.)*
+- **Licensing questions:** [open an issue with the `licensing` label](https://github.com/Hi7Dev/claude-recall/issues/new?labels=licensing&title=Commercial+licence+enquiry)
+- **General questions:** [GitHub Discussions](https://github.com/Hi7Dev/claude-recall/discussions)
+- **Sponsor on GitHub:** https://github.com/sponsors/Hi7Dev
 
 Last updated: 2026-05-22
