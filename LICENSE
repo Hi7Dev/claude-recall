@@ -1,0 +1,37 @@
+This repository contains TWO skills under DIFFERENT licences:
+
+  recall/      → MIT License (see recall/LICENSE)
+  recall-pro/  → CC BY-NC 4.0 (see recall-pro/LICENSE and COMMERCIAL.md)
+
+You may use, modify, and redistribute the contents of recall/ under the
+terms of the MIT License. You may use the contents of recall-pro/ for
+personal and non-commercial purposes under CC BY-NC 4.0; commercial use
+of recall-pro/ requires a paid commercial licence — see COMMERCIAL.md.
+
+The contents of this top-level repository (docs/, README.md, CHANGELOG.md,
+COMMERCIAL.md, and this LICENSE itself) are released under the same MIT
+terms as the recall/ directory.
+
+================================================================================
+MIT License (applies to recall/ and to top-level repo files)
+================================================================================
+
+Copyright (c) 2026 the Recall authors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

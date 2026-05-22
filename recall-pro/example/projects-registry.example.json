@@ -1,0 +1,20 @@
+{
+  "projects": [
+    {
+      "name": "project-alpha",
+      "alias": "alpha",
+      "path": "/path/to/project-alpha",
+      "stack": "React + Node",
+      "description": "Customer dashboard example",
+      "slug": "C--code-project-alpha"
+    },
+    {
+      "name": "project-beta",
+      "alias": "beta",
+      "path": "/path/to/project-beta",
+      "stack": "Next.js + tRPC",
+      "description": "Marketing site example",
+      "slug": "C--code-project-beta"
+    }
+  ]
+}
